@@ -26,4 +26,4 @@ Get it working?
   
 
 Like it?
-<a href="https://paypal.me/josvenes/" rel="nofollow"><img src="josvenes/simple_pos/blob/main/blue.svg" height="40" style="max-width: 100%;"></a>
+<a href="https://paypal.me/josvenes/" rel="nofollow"><img src="/simple_pos/blob/main/blue.svg" height="40" style="max-width: 100%;"></a>
