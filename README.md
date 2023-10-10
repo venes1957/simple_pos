@@ -26,4 +26,4 @@ Get it working?
   
 
 Like it?
-![Screenshot](blue.svg| width=60 )
+![Screenshot](blue.svg | height=40 )
