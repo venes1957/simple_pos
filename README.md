@@ -8,6 +8,17 @@ Simple POS system build in PHP, jquery, database files = text
 
 ![Screenshot](screenshot1.png)
 
+![Screenshot](screenshot2.png)
+If one makes a purchase click on the central icon so the purches can be adressed:
+- direct payment ('direct')
+- or write it to a ticket on name
+
+![Screenshot](screenshot3.png)
+In 'bonnen' (receipts) all receipts on name can be processed.
+
+![Screenshot](screenshot4.png)
+I the admin section products can be edited, and can the purchases be followed. (further development is following)
+
 **Development**
 Normal use should work well. 
 Development is 
