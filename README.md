@@ -22,3 +22,8 @@ Get it working?
 - download the zip-file
 - store all files on a webserver
 - it should work directly (otherwise contact me:)
+
+  
+
+Like it?
+<a href="https://paypal.me/josvenes/" rel="nofollow"><img src="/josvenes/donate-with-paypal/raw/master/blue.svg" height="40" style="max-width: 100%;"></a>
