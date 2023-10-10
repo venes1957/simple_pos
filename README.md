@@ -26,4 +26,4 @@ Get it working?
   
 
 Like it?
-![Screenshot](donate.svg | height=40 )
+![Screenshot](donate.svg)
