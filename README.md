@@ -1,6 +1,11 @@
 # simple_pos
 Simple POS system build in PHP, jquery, database files = text
 
+**Install**
+- download Simple-Pos.zip
+- extract it on your server
+- it works out of the box
+
 ![Screenshot](screenshot1.png)
 
 Normal use should work well. 
