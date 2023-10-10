@@ -1,6 +1,8 @@
 # simple_pos
 Simple POS system build in PHP, jquery, database files = text
 
+![Screenshot](screenshot1.png)
+
 Normal use should work well. 
 Development is 
 - the agregation of al the tickets (revenues, reports etc)
