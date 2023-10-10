@@ -26,4 +26,4 @@ Get it working?
   
 
 Like it?
-![Screenshot](donate.svg)
+![Screenshot](donate.png)
