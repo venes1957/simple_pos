@@ -30,4 +30,4 @@ Like it?
 
 ![If you like this project, consider a little contribution.](https://github.com/venes1957/simple_pos/blob/main/blue.svg)
 
-![Screenshot](blue.svg)
+![Screenshot](blue.svg =40x60)
