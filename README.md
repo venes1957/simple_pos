@@ -27,5 +27,4 @@ Get it working?
 
 Like it?
 ![Screenshot](donate.png)
-
-[url=josvenes][img]https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif[/img][/url]
+![url=@josvenes][img]https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif[/img][/url]
