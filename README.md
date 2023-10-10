@@ -25,7 +25,7 @@ Get it working?
 - store all files on a webserver
 - it should work directly (otherwise contact me:)
 
-  
+Questions? [venes@live.nl](mailto:venes@live.nl)
 
 Like it?
 
