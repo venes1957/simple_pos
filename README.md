@@ -26,8 +26,4 @@ Get it working?
   
 
 Like it?
-
-
-![If you like this project, consider a little contribution.](https://github.com/venes1957/simple_pos/blob/main/blue.svg)
-
-![Screenshot](blue.svg =40x60)
+![Screenshot](blue.svg| width=60 )
