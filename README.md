@@ -15,6 +15,7 @@ If one makes a purchase click on the central icon so the purches can be adressed
 
 ![Screenshot](screenshot3.png)
 In 'bonnen' (receipts) all receipts on name can be processed.
+The receipt also can be manipulated when it is nog right.
 
 ![Screenshot](screenshot4.png)
 I the admin section products can be edited, and can the purchases be followed. (further development is following)
